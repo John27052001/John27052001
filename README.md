@@ -9,7 +9,7 @@ Hi, I’m **Megha John Babu** — a self-driven full stack developer who loves b
 From crafting REST APIs with **Spring Boot** to styling interactive UIs with **React**, I enjoy creating complete solutions from backend logic to frontend design.  
 I’m currently exploring cloud deployment and leveling up my system design skills for production-ready apps.
 
-- 🎯 **Actively looking for Summer 2025 SDE internships**
+- 🎯 **Actively looking for Summer 2025 Full-Stack Development and SDE internships**
 - 💻 I love building full stack projects with real functionality
 - 📫 Reach me at: **meghajohnbabu@gmail.com**
 - 🌐 Portfolio: [[(https://john27052001.github.io/portfolio)]
