@@ -27,15 +27,39 @@ I’m currently exploring cloud deployment and leveling up my system design skil
 ### ⚙️ Tech Stack
 
 <!-- You can use shields.io to customize these icons -->
+
+**Languages:**  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Frontend:**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe_Express-9999FF?style=flat&logo=adobe&logoColor=white)
+
+**Backend:**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000?style=flat&logo=json&logoColor=white)
+
+**Databases:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=hibernate&logoColor=white)
+
+**Dev Tools & Platforms:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+
+**Machine Learning (for Medical Diagnosis Predictor):**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
 
 ---
 
@@ -43,15 +67,7 @@ I’m currently exploring cloud deployment and leveling up my system design skil
 
 - 🎯 **[Quote Saver App](https://quote-saver-app.vercel.app)** – Full stack CRUD app using Java + React  
 - 🎨 **[Color Palette Generator](https://github.com/John27052001/color-palette-generator)** – Adobe Express Add-on to extract color palettes from images
-  Visit my GitHub account for more projects!!
-
----
-
-### 📊 GitHub Stats
-
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=John27052001&show_icons=true&theme=react)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=John27052001&layout=compact&theme=react)
+  (Visit my GitHub account for more projects!!)
 
 ---
 
