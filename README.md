@@ -12,7 +12,7 @@ I’m currently exploring cloud deployment and leveling up my system design skil
 - 🎯 **Actively looking for Summer 2025 Full-Stack Development and SDE internships**
 - 💻 I love building full stack projects with real functionality
 - 📫 Reach me at: **meghajohnbabu@gmail.com**
-- 🌐 Portfolio: [[(https://john27052001.github.io/portfolio)]
+- 🌐 Portfolio: [https://meghajohnbabu.netlify.app/]
 
 ---
 
