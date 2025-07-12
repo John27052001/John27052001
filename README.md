@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Megha John Babu</h1>
-<h3 align="center">A passionate Full Stack Developer | Java + React | Computer Science Graduate Student</h3>
+<h3 align="center">A passionate Software Engineer | Full Stack Developer | Java + React | Computer Science Graduate Student</h3>
 
 ---
 
