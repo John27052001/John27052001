@@ -5,11 +5,11 @@
 
 ### 🧠 About Me:
 
-Hi, I’m **Megha John Babu** — a self-driven full stack developer who loves building clean, fast, and real-world applications.  
+Hi, I’m **Megha John Babu** — a self-driven full stack software developer who loves building clean, fast, and real-world applications.  
 From crafting REST APIs with **Spring Boot** to styling interactive UIs with **React**, I enjoy creating complete solutions from backend logic to frontend design.  
 I’m currently exploring cloud deployment and leveling up my system design skills for production-ready apps.
 
-- 🎯 **Actively looking for Summer 2025 Full-Stack Development and SDE internships**
+- 🎯 **Actively looking for Software Engineering & Full-Stack Development roles**
 - 💻 I love building full stack projects with real functionality
 - 📫 Reach me at: **meghajohnbabu@gmail.com**
 - 🌐 Portfolio: [https://meghajohnbabu.netlify.app/]
@@ -60,15 +60,5 @@ I’m currently exploring cloud deployment and leveling up my system design skil
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-
----
-
-### 🚀 Featured Projects
-
-- 🎯 **[Quote Saver App](https://quote-saver-app.vercel.app)** – Full stack CRUD app using Java + React  
-- 🎨 **[Color Palette Generator](https://github.com/John27052001/color-palette-generator)** – Adobe Express Add-on to extract color palettes from images
-  (Visit my GitHub account for more projects!!)
-
----
 
 *Thanks for visiting my profile! Let’s connect and build something awesome together 🚀*
