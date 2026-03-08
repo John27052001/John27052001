@@ -27,7 +27,8 @@ I’m currently exploring cloud deployment and leveling up my system design skil
 ### ⚙️ Tech Stack
 
 
-**Languages:**  
+**Languages:** 
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -39,6 +40,7 @@ I’m currently exploring cloud deployment and leveling up my system design skil
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 **Frontend:**  
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
@@ -51,6 +53,7 @@ I’m currently exploring cloud deployment and leveling up my system design skil
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat&logo=redux&logoColor=white)
 
 **Backend:**  
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-000?style=flat&logo=json&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -60,7 +63,8 @@ I’m currently exploring cloud deployment and leveling up my system design skil
 ![Microservices](https://img.shields.io/badge/Microservices-4285F4?style=flat&logo=microgen&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth-3A3A3A?style=flat&logo=auth0&logoColor=white)
 
-**Databases:**  
+**Databases:** 
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
@@ -69,6 +73,7 @@ I’m currently exploring cloud deployment and leveling up my system design skil
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 
 **Systems & Algorithms:**
+
 ![Data Structures](https://img.shields.io/badge/Data_Structures-0052CC?style=flat&logo=databricks&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-FF6F00?style=flat&logo=apacheairflow&logoColor=white) 
 ![Complexity_Analysis](https://img.shields.io/badge/Complexity_Analysis-4B0082?style=flat&logo=codeforces&logoColor=white)  
@@ -77,6 +82,7 @@ I’m currently exploring cloud deployment and leveling up my system design skil
 ![Performance_Optimization](https://img.shields.io/badge/Performance_Optimization-6A1B9A?style=flat&logo=speedtest&logoColor=white)
 
 **Cloud, DevOps & Deployment:**  
+
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
