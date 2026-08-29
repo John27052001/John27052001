@@ -12,7 +12,7 @@ I’m currently exploring cloud deployment and leveling up my system design skil
 - 🎯 **Actively looking for Software Engineering & Full-Stack Development roles**
 - 💻 I love building full stack projects with real functionality
 - 📫 Reach me at: **meghajohnbabu@gmail.com**
-- 🌐 Portfolio: **https://meghajohnbabu.netlify.app/](https://meghajohnbabuportfolio.netlify.app/**
+- 🌐 Portfolio: **https://meghajohnbabuportfolio.netlify.app/**
 
 ---
 
